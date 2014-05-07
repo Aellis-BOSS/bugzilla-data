@@ -108,13 +108,38 @@ function submitPlugin(pluginName, comment) {
     }).catch(handleError);
 }
 
+function contains(str, arr) {
+    for (var i in arr) {
+        if (typeof(arr[i]) === 'string') {
+            if (str.indexOf(arr[i]) > -1) {
+                return true;
+            }
+        } else if (arr[i].test(str)) {
+            return true;
+        }
+    }
+    return false;
+}
+
 function processBugXML(xml) {
     var name = xml.children[0].textContent;
     var commentElems = xml.getElementsByTagName('thetext');
 
     var comments = [];
     for (var i = 0; i < commentElems.length; ++i) {
-        comments.push(commentElems[i].textContent);
+        /* Filter comments. */
+        if (contains(commentElems[i].textContent, blacklist)) {
+            continue;
+        }
+        var comment = '';
+        commentElems[i].textContent.split('\n\n').forEach(function(splitComment){
+            if (contains(splitComment, keywords)) {
+                comment += splitComment + '\n\n';
+            }
+        });
+        if (comment.length > 2) {
+            comments.push(comment.substring(0, comment.length - 2));
+        }
     }
 
     comments.reduce(function(sequence, comment) {
