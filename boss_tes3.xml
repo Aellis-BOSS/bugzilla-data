@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE bugzilla SYSTEM "http://bugzilla.darkcreations.org/bugzilla.dtd">
-
 <bugzilla version="4.2"
           urlbase="http://bugzilla.darkcreations.org/"
-          
           maintainer="admin@darkcreations.org"
 >
-
     <bug>
           <bug_id>9813</bug_id>
-          
           <creation_ts>2013-01-13 13:50:00 +0000</creation_ts>
           <short_desc>TribunalImproved.esp</short_desc>
           <delta_ts>2013-01-13 13:50:00 +0000</delta_ts>
@@ -24,42 +20,26 @@
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>samson</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>25737</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-01-13 13:50:00 +0000</bug_when>
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=1196
-
 Fix package for German Tribunal.</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>9814</bug_id>
-          
           <creation_ts>2013-01-13 13:50:00 +0000</creation_ts>
           <short_desc>Bloodmoon Improved 0.2.esp</short_desc>
           <delta_ts>2013-01-13 13:50:22 +0000</delta_ts>
@@ -74,42 +54,26 @@ Fix package for German Tribunal.</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>samson</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>25738</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-01-13 13:50:22 +0000</bug_when>
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=1197
-
 Fix package for German Bloodmoon.</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>9815</bug_id>
-          
           <creation_ts>2013-01-13 13:50:00 +0000</creation_ts>
           <short_desc>MW_Improved.esp</short_desc>
           <delta_ts>2013-01-13 13:50:39 +0000</delta_ts>
@@ -124,42 +88,26 @@ Fix package for German Bloodmoon.</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>samson</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>25739</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-01-13 13:50:39 +0000</bug_when>
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=25
-
 Fix package for German Morrowind.</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>9816</bug_id>
-          
           <creation_ts>2013-01-13 13:51:00 +0000</creation_ts>
           <short_desc>MWI_Masterindex.esp</short_desc>
           <delta_ts>2013-01-13 13:51:28 +0000</delta_ts>
@@ -174,42 +122,26 @@ Fix package for German Morrowind.</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>samson</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>25740</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-01-13 13:51:28 +0000</bug_when>
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=25
-
 Fix for German Master Index to load with MW_Improved. Please load after DLC and after MW_Improved.esp</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>9817</bug_id>
-          
           <creation_ts>2013-01-13 13:51:00 +0000</creation_ts>
           <short_desc>AreaEffectArrows_DV.esp</short_desc>
           <delta_ts>2013-01-13 13:51:58 +0000</delta_ts>
@@ -224,42 +156,26 @@ Fix for German Master Index to load with MW_Improved. Please load after DLC and 
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>samson</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>25741</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-01-13 13:51:58 +0000</bug_when>
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=317
-
 German AreaEffectArrows.</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>9818</bug_id>
-          
           <creation_ts>2013-01-13 13:52:00 +0000</creation_ts>
           <short_desc>Master_Index_DV.esp</short_desc>
           <delta_ts>2013-01-13 13:52:22 +0000</delta_ts>
@@ -274,42 +190,26 @@ German AreaEffectArrows.</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>samson</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>25742</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-01-13 13:52:22 +0000</bug_when>
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=696
-
 German Maser Index.</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>9819</bug_id>
-          
           <creation_ts>2013-01-13 13:53:00 +0000</creation_ts>
           <short_desc>LeFemmArmor.esp</short_desc>
           <delta_ts>2014-03-13 04:57:35 +0000</delta_ts>
@@ -324,33 +224,20 @@ German Maser Index.</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
-          
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>25743</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-01-13 13:53:13 +0000</bug_when>
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=320
-
 German LeFemmArmor.</thetext>
           </long_desc>
           <long_desc isprivate="0">
@@ -371,13 +258,9 @@ German LeFemmArmor.</thetext>
             <bug_when>2014-03-13 04:57:35 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=103371</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>10817</bug_id>
-          
           <creation_ts>2013-02-01 16:06:00 +0000</creation_ts>
           <short_desc>ShotN_TheReach_v1.0.esm</short_desc>
           <delta_ts>2013-02-01 16:06:49 +0000</delta_ts>
@@ -392,40 +275,25 @@ German LeFemmArmor.</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>samson</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>29394</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-02-01 16:06:49 +0000</bug_when>
             <thetext>http://morrowind.nexusmods.com/mods/42333/</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>10818</bug_id>
-          
           <creation_ts>2013-02-01 16:06:00 +0000</creation_ts>
           <short_desc>Skyrim_Data.esm</short_desc>
           <delta_ts>2013-02-01 16:06:59 +0000</delta_ts>
@@ -440,40 +308,25 @@ German LeFemmArmor.</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>samson</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>29395</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-02-01 16:06:59 +0000</bug_when>
             <thetext>http://morrowind.nexusmods.com/mods/42333/</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>14030</bug_id>
-          
           <creation_ts>2013-04-15 18:41:00 +0000</creation_ts>
           <short_desc>aru_signs_en.esp</short_desc>
           <delta_ts>2013-04-15 18:41:28 +0000</delta_ts>
@@ -488,46 +341,29 @@ German LeFemmArmor.</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>samson</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>44094</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-04-15 18:41:28 +0000</bug_when>
             <thetext>http://morrowind.nexusmods.com/mods/41658
-
 A replacer from Arukinn
-
 This mod replaces all the (service-)banners, town-banners, (service-)signs and signposts and the banners from the three houses too.
 All the textures are new painted.
 All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>16396</bug_id>
-          
           <creation_ts>2013-06-22 16:36:00 +0000</creation_ts>
           <short_desc>Poorly Placed Object Fix  1.2.esm</short_desc>
           <delta_ts>2013-06-22 16:36:04 +0000</delta_ts>
@@ -542,40 +378,25 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>samson</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>54485</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-06-22 16:36:04 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=104032</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>16397</bug_id>
-          
           <creation_ts>2013-06-22 16:37:00 +0000</creation_ts>
           <short_desc>Area Effect Projectiles.esp</short_desc>
           <delta_ts>2013-06-22 20:06:19 +0000</delta_ts>
@@ -590,40 +411,24 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
-          
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>54486</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-06-22 16:37:06 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=101304</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>16398</bug_id>
-          
           <creation_ts>2013-06-22 16:40:00 +0000</creation_ts>
           <short_desc>ImprovedAdamantiumArmor.esp</short_desc>
           <delta_ts>2013-06-22 20:06:36 +0000</delta_ts>
@@ -638,40 +443,24 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
-          
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>54487</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-06-22 16:40:45 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=54183</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>16399</bug_id>
-          
           <creation_ts>2013-06-22 16:40:00 +0000</creation_ts>
           <short_desc>CleanBitterCoastSounds.esp</short_desc>
           <delta_ts>2013-06-22 20:06:49 +0000</delta_ts>
@@ -686,27 +475,15 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
-          
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>54488</commentid>
             <who name="BOSS Guest">bossguest</who>
@@ -719,13 +496,9 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
             <bug_when>2013-06-22 16:41:25 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=54183</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>16400</bug_id>
-          
           <creation_ts>2013-06-22 16:41:00 +0000</creation_ts>
           <short_desc>CleanHelmOfTohan.esp</short_desc>
           <delta_ts>2013-06-22 20:07:02 +0000</delta_ts>
@@ -740,40 +513,24 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
-          
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>54489</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-06-22 16:41:09 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=54183</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>16401</bug_id>
-          
           <creation_ts>2013-06-22 16:41:00 +0000</creation_ts>
           <short_desc>CleanMasterIndex.esp</short_desc>
           <delta_ts>2013-06-22 20:07:13 +0000</delta_ts>
@@ -788,40 +545,24 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
-          
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>54490</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-06-22 16:41:18 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=54183</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>16402</bug_id>
-          
           <creation_ts>2013-06-22 16:41:00 +0000</creation_ts>
           <short_desc>SiegeAtFiremoth.esp</short_desc>
           <delta_ts>2013-06-22 20:07:36 +0000</delta_ts>
@@ -836,40 +577,24 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
-          
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>54492</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-06-22 16:41:34 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=54183</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>18436</bug_id>
-          
           <creation_ts>2013-08-17 18:53:00 +0000</creation_ts>
           <short_desc>Morrowind Patch v1.6.3.esm</short_desc>
           <delta_ts>2013-08-17 18:53:16 +0000</delta_ts>
@@ -884,40 +609,25 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>danielhmpdx16</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>65459</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-08-17 18:53:16 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/View.php?view=Mods.Detail&amp;id=2083</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>19019</bug_id>
-          
           <creation_ts>2013-09-04 01:07:00 +0000</creation_ts>
           <short_desc>Vampire Birthsigns.esp</short_desc>
           <delta_ts>2013-09-04 01:07:42 +0000</delta_ts>
@@ -932,27 +642,16 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>danielhmpdx16</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>69216</commentid>
             <who name="BOSS Guest">bossguest</who>
@@ -965,13 +664,9 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
             <bug_when>2013-09-04 01:07:42 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/View.php?view=mods.detail&amp;id=1861</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>21895</bug_id>
-          
           <creation_ts>2013-11-22 20:15:00 +0000</creation_ts>
           <short_desc>Vvardenfell Diversified.ESP</short_desc>
           <delta_ts>2013-11-22 20:15:26 +0000</delta_ts>
@@ -986,40 +681,25 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>danielhmpdx16</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>81852</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-11-22 20:15:26 +0000</bug_when>
             <thetext>http://morrowind.nexusmods.com/mods/42693/?tab=2&amp;navtag=%2Fajax%2Fmodfiles%2F%3Fid%3D42693&amp;pUp=1</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>21896</bug_id>
-          
           <creation_ts>2013-11-22 20:15:00 +0000</creation_ts>
           <short_desc>Vvardenfell Diversified.ESP</short_desc>
           <delta_ts>2013-11-22 20:15:28 +0000</delta_ts>
@@ -1034,40 +714,25 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>danielhmpdx16</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>81853</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-11-22 20:15:28 +0000</bug_when>
             <thetext>http://morrowind.nexusmods.com/mods/42693/?tab=2&amp;navtag=%2Fajax%2Fmodfiles%2F%3Fid%3D42693&amp;pUp=1</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>22459</bug_id>
-          
           <creation_ts>2013-12-06 01:14:00 +0000</creation_ts>
           <short_desc>DwemerBioMonitor_v1-2.esp</short_desc>
           <delta_ts>2013-12-06 01:14:49 +0000</delta_ts>
@@ -1082,42 +747,26 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>danielhmpdx16</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>83556</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-12-06 01:14:49 +0000</bug_when>
             <thetext>http://planetelderscrolls.gamespy.com/View.php?view=mods.detail&amp;id=2385
-
 Through research of Dwemer technology, the Imperial Legion &amp; Tundro Enterprises have developed a symbiotic implant that that can automate the tasks of certain potion creation and administration, as follows:</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>22590</bug_id>
-          
           <creation_ts>2013-12-08 22:26:00 +0000</creation_ts>
           <short_desc>MRM.esm</short_desc>
           <delta_ts>2013-12-08 22:26:14 +0000</delta_ts>
@@ -1132,40 +781,25 @@ Through research of Dwemer technology, the Imperial Legion &amp; Tundro Enterpri
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>danielhmpdx16</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>83945</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2013-12-08 22:26:14 +0000</bug_when>
             <thetext>Mountainous Red Mountain. This makes the red Mountains higher. It is recommended to go last in the load order.</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>25069</bug_id>
-          
           <creation_ts>2014-01-18 19:44:00 +0000</creation_ts>
           <short_desc>Clean UMPP-fixes-BTB-v2.esp</short_desc>
           <delta_ts>2014-01-18 19:44:45 +0000</delta_ts>
@@ -1180,40 +814,25 @@ Through research of Dwemer technology, the Imperial Legion &amp; Tundro Enterpri
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>danielhmpdx16</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>89955</commentid>
             <who name="BOSS Guest">bossguest</who>
             <bug_when>2014-01-18 19:44:45 +0000</bug_when>
             <thetext>http://www.nexusmods.com/morrowind/mods/40947/?tab=2&amp;navtag=http%3A%2F%2Fwww.nexusmods.com%2Fmorrowind%2Fajax%2Fmodfiles%2F%3Fid%3D40947&amp;pUp=1</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>27052</bug_id>
-          
           <creation_ts>2014-03-10 12:01:00 +0000</creation_ts>
           <short_desc>Morrowind Patch v1.6.5d_beta.esm</short_desc>
           <delta_ts>2014-03-13 04:57:59 +0000</delta_ts>
@@ -1228,27 +847,16 @@ Through research of Dwemer technology, the Imperial Legion &amp; Tundro Enterpri
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>danielhmpdx16</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>100337</commentid>
             <who name="BOSS Guest">bossguest</who>
@@ -1261,13 +869,9 @@ Through research of Dwemer technology, the Imperial Legion &amp; Tundro Enterpri
             <bug_when>2014-03-13 04:57:59 +0000</bug_when>
             <thetext>http://www.sendspace.com/file/qhnen4</thetext>
           </long_desc>
-      
-      
-
     </bug>
     <bug>
           <bug_id>27110</bug_id>
-          
           <creation_ts>2014-03-13 04:56:00 +0000</creation_ts>
           <short_desc>Bloated Caves.esp</short_desc>
           <delta_ts>2014-03-13 04:56:51 +0000</delta_ts>
@@ -1282,27 +886,16 @@ Through research of Dwemer technology, the Imperial Legion &amp; Tundro Enterpri
           <op_sys>Windows</op_sys>
           <bug_status>UNCONFIRMED</bug_status>
           <resolution></resolution>
-          
-          
           <bug_file_loc></bug_file_loc>
           <status_whiteboard></status_whiteboard>
           <keywords></keywords>
           <priority>---</priority>
           <bug_severity>enhancement</bug_severity>
           <target_milestone>---</target_milestone>
-          
-          
           <everconfirmed>0</everconfirmed>
           <reporter name="BOSS Guest">bossguest</reporter>
           <assigned_to name="BOSS Guest">bossguest</assigned_to>
           <cc>danielhmpdx16</cc>
-
-      
-
-      
-
-      
-
           <long_desc isprivate="0">
             <commentid>100744</commentid>
             <who name="BOSS Guest">bossguest</who>
@@ -1315,9 +908,5 @@ Through research of Dwemer technology, the Imperial Legion &amp; Tundro Enterpri
             <bug_when>2014-03-13 04:56:51 +0000</bug_when>
             <thetext>http://webpages.charter.net/manauser/morrowind/files/GraphicHerbalism.7z</thetext>
           </long_desc>
-      
-      
-
     </bug>
-
 </bugzilla>
