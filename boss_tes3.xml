@@ -6,9 +6,6 @@
 >
     <bug>
           <short_desc>TribunalImproved.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=1196
 Fix package for German Tribunal.</thetext>
@@ -16,9 +13,6 @@ Fix package for German Tribunal.</thetext>
     </bug>
     <bug>
           <short_desc>Bloodmoon Improved 0.2.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=1197
 Fix package for German Bloodmoon.</thetext>
@@ -26,9 +20,6 @@ Fix package for German Bloodmoon.</thetext>
     </bug>
     <bug>
           <short_desc>MW_Improved.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=25
 Fix package for German Morrowind.</thetext>
@@ -36,9 +27,6 @@ Fix package for German Morrowind.</thetext>
     </bug>
     <bug>
           <short_desc>MWI_Masterindex.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=25
 Fix for German Master Index to load with MW_Improved. Please load after DLC and after MW_Improved.esp</thetext>
@@ -46,9 +34,6 @@ Fix for German Master Index to load with MW_Improved. Please load after DLC and 
     </bug>
     <bug>
           <short_desc>AreaEffectArrows_DV.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=317
 German AreaEffectArrows.</thetext>
@@ -56,9 +41,6 @@ German AreaEffectArrows.</thetext>
     </bug>
     <bug>
           <short_desc>Master_Index_DV.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=696
 German Maser Index.</thetext>
@@ -66,9 +48,6 @@ German Maser Index.</thetext>
     </bug>
     <bug>
           <short_desc>LeFemmArmor.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://www.scharesoft.de/joomla/index.php?option=com_remository&amp;Itemid=28&amp;func=fileinfo&amp;id=320
 German LeFemmArmor.</thetext>
@@ -85,27 +64,18 @@ German LeFemmArmor.</thetext>
     </bug>
     <bug>
           <short_desc>ShotN_TheReach_v1.0.esm</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://morrowind.nexusmods.com/mods/42333/</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>Skyrim_Data.esm</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://morrowind.nexusmods.com/mods/42333/</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>aru_signs_en.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://morrowind.nexusmods.com/mods/41658
 A replacer from Arukinn
@@ -116,36 +86,24 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
     </bug>
     <bug>
           <short_desc>Poorly Placed Object Fix  1.2.esm</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=104032</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>Area Effect Projectiles.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=101304</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>ImprovedAdamantiumArmor.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=54183</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>CleanBitterCoastSounds.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=54183</thetext>
           </long_desc>
@@ -155,45 +113,30 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
     </bug>
     <bug>
           <short_desc>CleanHelmOfTohan.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=54183</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>CleanMasterIndex.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=54183</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>SiegeAtFiremoth.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://planetelderscrolls.gamespy.com/fms/Download.php?id=54183</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>Morrowind Patch v1.6.3.esm</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://planetelderscrolls.gamespy.com/View.php?view=Mods.Detail&amp;id=2083</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>Vampire Birthsigns.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://planetelderscrolls.gamespy.com/View.php?view=mods.detail&amp;id=1861</thetext>
           </long_desc>
@@ -203,27 +146,18 @@ All the textures has a higher resolution (e.g. 1024 x 1024)</thetext>
     </bug>
     <bug>
           <short_desc>Vvardenfell Diversified.ESP</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://morrowind.nexusmods.com/mods/42693/?tab=2&amp;navtag=%2Fajax%2Fmodfiles%2F%3Fid%3D42693&amp;pUp=1</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>Vvardenfell Diversified.ESP</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://morrowind.nexusmods.com/mods/42693/?tab=2&amp;navtag=%2Fajax%2Fmodfiles%2F%3Fid%3D42693&amp;pUp=1</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>DwemerBioMonitor_v1-2.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://planetelderscrolls.gamespy.com/View.php?view=mods.detail&amp;id=2385
 Through research of Dwemer technology, the Imperial Legion &amp; Tundro Enterprises have developed a symbiotic implant that that can automate the tasks of certain potion creation and administration, as follows:</thetext>
@@ -231,27 +165,18 @@ Through research of Dwemer technology, the Imperial Legion &amp; Tundro Enterpri
     </bug>
     <bug>
           <short_desc>MRM.esm</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>Mountainous Red Mountain. This makes the red Mountains higher. It is recommended to go last in the load order.</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>Clean UMPP-fixes-BTB-v2.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://www.nexusmods.com/morrowind/mods/40947/?tab=2&amp;navtag=http%3A%2F%2Fwww.nexusmods.com%2Fmorrowind%2Fajax%2Fmodfiles%2F%3Fid%3D40947&amp;pUp=1</thetext>
           </long_desc>
     </bug>
     <bug>
           <short_desc>Morrowind Patch v1.6.5d_beta.esm</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://www.sendspace.com/file/qhnen4</thetext>
           </long_desc>
@@ -261,9 +186,6 @@ Through research of Dwemer technology, the Imperial Legion &amp; Tundro Enterpri
     </bug>
     <bug>
           <short_desc>Bloated Caves.esp</short_desc>
-          <component>TES III: Morrowind</component>
-          <bug_status>UNCONFIRMED</bug_status>
-          <resolution></resolution>
           <long_desc isprivate="0">
             <thetext>http://webpages.charter.net/manauser/morrowind/files/GraphicHerbalism.7z</thetext>
           </long_desc>
